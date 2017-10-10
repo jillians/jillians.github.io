@@ -2,14 +2,14 @@
 
 <style>
 
+body {
+  color: red;
+}
+
 h1 {
   background-color: pink;
   color: white;
   font-weight: 100;
-}
-
-body {
-  color: red;
-}
+}'
 
 </style>
