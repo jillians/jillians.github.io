@@ -6,4 +6,16 @@
   font-weight: bold;
 }
 
+test2
+
+.moments-container {
+	width: 40%;
+	border: 1px solid #000;
+	padding: 8px;
+	font-family: Courier, mono;
+	font-size: 18px;
+	margin: auto;
+	text-align: center;
+}
+
 </style>
